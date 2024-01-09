@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: "Great coffee with a conscience "
+title: Porfolio
 image: /img/home-jumbotron.jpg
 heading: I’m Taylor Kingsbery!
-subheading: Support sustainable farming while enjoying a cup
+subheading: ….
 mainpitch:
   title: Chokma!
   description: |
