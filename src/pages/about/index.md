@@ -1,19 +1,16 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: A little bit about me…
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Origin Story
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+I was born and raised in Oklahoma. Home of many tribal nations, the onion burger, Reba McIntyre, and the University of Oklahoma (Boomer Sooner!). My family is made up of Chickasaw, Choctaw, Cherokee, and settler blood. I am an enrolled member of the Chickasaw Nation and grew up down the street from my Nation’s capital building. Like many Oklahomans, especially those from Tishomingo, I grew up horse riding, fishing, going to Friday night football games, and eating way too much fry bread. Growing up on the Chickasaw Nation reservation instilled a deep respect and love for my tribal nation and our culture. Because of this love and respect, my passion in life is serving other Indigenous peoples’ in my work and volunteer opportunities. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Professional 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+My professional passion is to serve Indigenous and underrepresented communities. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Personal
+
+When I’m not working, I am usually spending time with my partner, Keith Holliday, and our son Miko (which means “Leader” in Chickasaw). Though I miss the plains of Oklahoma, I love living next to the beautiful Rocky Mountains in Longmont, Colorado. With such beautiful scenery, running with my dog Aponi next to the mountains is one of my favorite past times. I also love reading, especially fiction, I am a huge Stephen Graham Jones fan. I also love sewing my own clothes and spending lazy mornings at a local coffee shop.
