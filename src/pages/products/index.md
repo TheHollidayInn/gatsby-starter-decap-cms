@@ -1,14 +1,34 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Resume
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Professional Experience
+path: /products
+description: " Program Officer- Student Success AMERICAN INDIAN SCIENCE AND
+  ENGINEERING SOCIETY,  BOULDER, CO  March 2021 - Present  •Administered a
+  $150,000 grant from the Jack Kent Cooke Foundation, ensuring compliance and
+  successful project outcomes within the established timeline resulting in a
+  renewed two-year grant with  $50,000 in additional funding.  •Directed AISES's
+  scholarships and internships program, increasing the number of Indigenous
+  student applicants by 50% in the first year and collaborating with program
+  funders to develop new intern opportunities. •Collaborated with the
+  development team and funding partners, such as the San Manuel Band of Mission
+  Indians, Reboot Representation, and Aristocrat Gaming, to ensure new and
+  growing opportunities for Native American students in STEM.   Adoption
+  Services Supervisor HUMANE SOCIETY OF BOULDER VALLEY, BOULDER, CO  May 2019 -
+  January 2020  •Supervised and trained a team, ensuring adherence to
+  established policies and procedures for animal protection and customer
+  satisfaction. • Acted as the primary point of contact for client care
+  inquiries and promptly addressed questions and concerns.  Senior Product and
+  Customer Success Manager BONJORO, VIMILY PT., REMOTE August 2017 - May
+  2019  •Built relationships with customers, incorporated customer feedback into
+  product development, and reduced new customer churn by 30% by implementing new
+  features and department standards.  Program Administrator THE AMERICAN INDIAN
+  COLLEGE FUND, DENVER, CO November 2016 - August 2017 • Researched, designed,
+  implemented, and managed funded scholarships and community-building programs
+  for Native American students at Tribal Colleges and Universities.
+  •Collaborated on Dollar General GED grant renewal report resulting in an
+  increase in funding"
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -62,20 +82,17 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -83,19 +100,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: ??
 ---
