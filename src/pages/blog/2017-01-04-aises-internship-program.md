@@ -4,7 +4,7 @@ title: AISES Internship Program Management
 date: 2017-01-04T15:04:10.000Z
 description: Internship
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/4ff5ea43-841e-40fe-8e23-f226b0bbd676.jpeg
 tags: []
 ---
 ![chemex](/img/d6467d8d-94a4-4eff-9f51-ef9e6e127ba3.jpeg)
