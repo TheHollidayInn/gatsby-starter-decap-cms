@@ -4,7 +4,7 @@ import { GatsbyImage } from "gatsby-plugin-image";
 
 export default function FullWidthImage(props) {
   const {
-    height = 200,
+    height = 300,
     img,
     title,
     subheading,
@@ -19,8 +19,18 @@ export default function FullWidthImage(props) {
           display: "grid",
           alignItems: "center",
           marginTop: "2rem",
+          height: "300px",
         }}
       >
+        <div
+          className="full-width-image-container margin-top-0"
+          style={{
+            position: "relative",
+            backgroundImage: `url('/img/banner.jpg')`,
+            backgroundPositionY: "700px",
+            height: "200px",
+          }}
+        ></div>
         {img?.url ? (
           <img
             src={img}
@@ -42,10 +52,18 @@ export default function FullWidthImage(props) {
             objectFit={"contain"}
             objectPosition={imgPosition}
             style={{
-              gridArea: "1/1",
+              position: "relative",
+              top: "-151px",
+              // gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
               maxHeight: height,
               borderRadius: "10px",
+              opacity: 1,
+              borderRadius: "50%",
+              width: "180px",
+              height: "180px",
+              margin: "1rem auto",
+              marginTop: "1.2rem",
             }}
             layout="fullWidth"
             // You can optionally force an aspect ratio for the generated image

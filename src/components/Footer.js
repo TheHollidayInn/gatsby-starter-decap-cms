@@ -30,17 +30,17 @@ const Footer = () => {
                       About
                     </Link>
                   </li>
-                  <li>
-                    <Link className="navbar-item" to="/products">
-                      Products
+                  {/* <li>
+                    <Link className="navbar-item" to="/projects">
+                      Projects
                     </Link>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <Link className="navbar-item" to="/contact/examples">
                       Form Examples
                     </Link>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <a
                       className="navbar-item"
                       href="/admin/"
@@ -49,7 +49,7 @@ const Footer = () => {
                     >
                       Admin
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </section>
             </div>
@@ -58,19 +58,19 @@ const Footer = () => {
                 <ul className="menu-list">
                   <li>
                     <Link className="navbar-item" to="/blog">
-                      Latest Stories
+                      Projects
                     </Link>
                   </li>
                   <li>
-                    <Link className="navbar-item" to="/contact">
-                      Contact
+                    <Link className="navbar-item" to="/resume">
+                      Resume
                     </Link>
                   </li>
                 </ul>
               </section>
             </div>
             <div className="column is-4 social">
-              <a title="facebook" href="https://facebook.com">
+              {/* <a title="facebook" href="https://facebook.com">
                 <img
                   src={facebook}
                   alt="Facebook"
@@ -91,7 +91,7 @@ const Footer = () => {
                   alt="Instagram"
                   style={{ width: "1em", height: "1em" }}
                 />
-              </a>
+              </a> */}
               <a title="vimeo" href="https://vimeo.com">
                 <img
                   src={vimeo}

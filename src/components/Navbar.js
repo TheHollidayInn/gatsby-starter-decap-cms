@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import logo from "../img/logo.svg";
+import logo from "../img/logo.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Logo">
             <img
-              src="https://assets-global.website-files.com/5f50efa4420f363f6b5670b2/63a1d179e3b001c7a945721b_logo%20tamara.svg"
+              src={logo}
               // alt="Kaldi"
               style={{
                 // width: "88px",

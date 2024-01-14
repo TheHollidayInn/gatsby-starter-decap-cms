@@ -10,7 +10,8 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/banner.jpg')`,
+            backgroundPositionY: "700px",
             height: "250px",
           }}
         >
@@ -26,7 +27,7 @@ export default class BlogIndexPage extends React.Component {
             Projects
           </h1>
         </div>
-        <section className="section">
+        <section className="section" style={{}}>
           <div className="container">
             <div className="content">
               <BlogRoll />
