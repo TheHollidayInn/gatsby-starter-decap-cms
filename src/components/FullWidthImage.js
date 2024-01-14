@@ -4,32 +4,34 @@ import { GatsbyImage } from "gatsby-plugin-image";
 
 export default function FullWidthImage(props) {
   const {
-    height = 400,
+    height = 200,
     img,
     title,
     subheading,
-    imgPosition = "top left",
+    imgPosition = "center",
   } = props;
 
   return (
     <React.Fragment>
       <div
-        className="margin-top-0"
+        className="margin-top-2"
         style={{
           display: "grid",
           alignItems: "center",
+          marginTop: "2rem",
         }}
       >
         {img?.url ? (
           <img
             src={img}
-            objectFit={"cover"}
+            objectFit={"contain"}
             objectPosition={imgPosition}
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
               height: height,
               width: "100%",
+              borderRadius: "10px",
             }}
             // This is a presentational image, so the alt should be an empty string
             alt=""
@@ -37,12 +39,13 @@ export default function FullWidthImage(props) {
         ) : (
           <GatsbyImage
             image={img}
-            objectFit={"cover"}
+            objectFit={"contain"}
             objectPosition={imgPosition}
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
               maxHeight: height,
+              borderRadius: "10px",
             }}
             layout="fullWidth"
             // You can optionally force an aspect ratio for the generated image
@@ -64,7 +67,7 @@ export default function FullWidthImage(props) {
             }}
           >
             {/* Any content here will be centered in the component */}
-            {title && (
+            {/* {title && (
               <h1
                 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
                 style={{
@@ -94,7 +97,7 @@ export default function FullWidthImage(props) {
               >
                 {subheading}
               </h3>
-            )}
+            )} */}
           </div>
         )}
       </div>
