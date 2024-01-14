@@ -18,8 +18,9 @@ const Navbar = () => {
               src={logo}
               // alt="Kaldi"
               style={{
-                // width: "88px",
-                maxHeight: "2.75rem",
+                width: "120px",
+                maxHeight: "none",
+                marginRight: "1rem",
               }}
             />
             {/* Taylor */}

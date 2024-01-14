@@ -23,18 +23,26 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
             <div
               className="full-width-image-container margin-top-0"
               style={{
                 backgroundImage: `url('/img/banner.jpg')`,
                 backgroundPositionY: "700px",
-                height: "200px",
+                height: "250px",
               }}
-            ></div>
-            {/* <p>{description}</p> */}
+            >
+              <h1
+                className="has-text-weight-bold is-size-1"
+                style={{
+                  boxShadow: "0.5rem 0 0 #2b2523 , -0.5rem 0 0 #2b2523 ",
+                  backgroundColor: "#2b2523",
+                  color: "white",
+                  padding: "1rem",
+                }}
+              >
+                {title}
+              </h1>
+            </div>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
