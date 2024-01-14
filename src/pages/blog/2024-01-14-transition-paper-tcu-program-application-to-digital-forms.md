@@ -6,7 +6,7 @@ description: AICF
 featuredpost: true
 featuredimage: /img/d8a02b59-6bbe-4669-8402-d538245b0079.jpeg
 ---
-# Transition Paper TCU Program Application to Digital Forms
+# Transition Paper Tribal Colleges and Universities (TCU) Program Application to Digital Forms
 
 ###### *American Indian College Fund*, February 2017
 
@@ -14,33 +14,28 @@ featuredimage: /img/d8a02b59-6bbe-4669-8402-d538245b0079.jpeg
 
 **Assessment and Planning:**
 
-Evaluated the existing paper-based program application process, identifying inefficiencies and challenges.
-
-Collaborated with TCU facilitators and grant partners to define requirements and objectives for the transition to Google Forms.
+* Evaluated the existing paper-based program application process, identifying inefficiencies and challenges.
+* Collaborated with TCU facilitators and grant partners to define requirements and objectives for the transition to Google Forms.
 
 **Digital Migration:**
 
-Designed and developed customized Google Forms, tailored to the program's specific needs and criteria.
-
-Created a user-friendly, online application system that allowed applicants to submit information securely and conveniently.
+* Designed and developed customized Google Forms, tailored to the program's specific needs and criteria.
+* Created a user-friendly, online application system that allowed applicants to submit information securely and conveniently.
 
 **Data Management**:
 
-Implemented automated data collection and organization within Google Forms, reducing manual data entry and minimizing errors.
-
-Established secure data storage and access protocols, ensuring compliance with privacy regulations.
+* Implemented automated data collection and organization within Google Forms, reducing manual data entry and minimizing errors.
+* Established secure data storage and access protocols, ensuring compliance with privacy regulations.
 
 **User Training and Support:**
 
-Conducted training sessions for American Indian College Fund staff and TCU applicants to familiarize them with the new online application process.
-
-Provided ongoing technical support and assistance to troubleshoot any issues.
+* Conducted training sessions for American Indian College Fund staff and TCU applicants to familiarize them with the new online application process.
+* Provided ongoing technical support and assistance to troubleshoot any issues.
 
 **Testing and Quality Assurance:**
 
-Conducted rigorous testing of the Google Forms application to identify and address any bugs or usability issues.
-
-Ensured that the application process was seamless and user-friendly.
+* Conducted rigorous testing of the Google Forms application to identify and address any bugs or usability issues.
+* Ensured that the application process was seamless and user-friendly.
 
 **Results and Impact:**
 
