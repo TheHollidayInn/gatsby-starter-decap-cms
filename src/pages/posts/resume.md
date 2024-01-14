@@ -2,13 +2,13 @@
 templateKey: posts-post
 title: Resume
 date: 2024-01-13T23:03:57.436Z
-description: ;lake;ldkjf
+description: Resume
 featuredpost: true
 featuredimage: /img/4ff5ea43-841e-40fe-8e23-f226b0bbd676.jpeg
 ---
 # **Professional Experience**
 
-# **Program Officer**
+## **Program Officer**
 
 #### *American Indian Science and Engineering Society, AISES*
 
@@ -58,23 +58,17 @@ Denver, Colorado
 
 # Education Experience
 
-
-
 ## Masters of Legal Studies, Indigenous Peoples Law
 
 ###### *University of Oklahoma,* January 2021 - May 2022
 
 * Graduated with 4.0
 
-
-
 ## Masters of Science, Native American Studies
 
 ###### *Southeastern Oklahoma State University*, January 2020 - December 2020
 
 * Graduated with honors. 
-
-
 
 ## Bachelors of Behavioral Science
 
@@ -83,9 +77,6 @@ Denver, Colorado
 * Presidential Leadership Scholarship recipient. 
 * Chickasaw Honors Club member. 
 * Graduated with honors. 
-
-
-
 
 
 # Volunteer Experience

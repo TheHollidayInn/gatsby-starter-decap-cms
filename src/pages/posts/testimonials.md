@@ -6,11 +6,10 @@ description: "Testimonials from colleagues and partners.   "
 featuredpost: true
 featuredimage: /img/2a2bd248-427e-4ff1-9f03-e5ed4af124a2.jpeg
 ---
-# Testimonials
 
 #### Stacy Ledford
 
-* ***AISES Program Officer, Executive Director of The Future Foundation***
+***AISES Program Officer, Executive Director of The Future Foundation***
 
   * AISES colleague 
 
@@ -20,7 +19,7 @@ featuredimage: /img/2a2bd248-427e-4ff1-9f03-e5ed4af124a2.jpeg
 
 #### Dr. Johnny Poolaw
 
-* ***AISES Director of Student Success***
+***AISES Director of Student Success***
 
   * Department Director
 
