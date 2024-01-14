@@ -1,7 +1,32 @@
 @import ./variables.sass
 
+body
+  background-color: #fff7f3
+
+.navbar
+  background-color: #fff7f3
+  padding-top: 1rem
+
 .navbar .navbar-menu
   box-shadow: none !important
+
+li.navbar-item
+  width: auto
+  border-style: none none dashed
+  border-width: 1px
+  border-color: var(--night-rider)
+  outline-offset: 0px
+  color: var(--night-rider)
+  letter-spacing: .25px
+  outline: 3px #1a1b1f
+  margin-left: 0
+  margin-right: 1.5em
+  padding: 5px 0
+  font-size: 12px
+  font-weight: 700
+  line-height: 20px
+  text-decoration: none
+
 
 .content .taglist
   list-style: none
@@ -69,9 +94,9 @@
   height: 1.5rem
   fill: currentColor
 .navbar-brand .navbar-item.logo
-  padding: 0 1rem
+  padding: 1rem
 footer.footer
-  padding: 3rem 0rem 0rem
+  padding: 2rem
   background-color: transparent
 
 
@@ -94,8 +119,8 @@ footer.footer
     display: inline
 
 // blog roll
-.blog-list-item.is-featured
-  background-color: #d6400033
+//.blog-list-item.is-featured
+  //background-color: #d6400033
 .blog-list-item header
   display: flex
   margin-bottom: 1em

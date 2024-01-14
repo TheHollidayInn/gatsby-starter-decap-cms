@@ -26,7 +26,14 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>{description}</p>
+            <div
+              className="full-width-image-container margin-top-0"
+              style={{
+                backgroundImage: `url('/img/blog-index.jpg')`,
+                height: "200px",
+              }}
+            ></div>
+            {/* <p>{description}</p> */}
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
