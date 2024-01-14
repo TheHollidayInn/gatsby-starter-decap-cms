@@ -9,7 +9,7 @@ tags: []
 ---
 ![flavor wheel](/img/7bf124e5-5ad1-42db-be13-d72e47e24673.jpeg)
 
-# AISES Scholarship Program Management
+<!-- # AISES Scholarship Program Management -->
 
 ###### *American Indian Science and Engineering Society,* March 2021 - Present
 

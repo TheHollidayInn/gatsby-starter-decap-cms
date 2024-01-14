@@ -11,7 +11,7 @@ tags: []
 
 # AISES Internship Program 
 
-###### *American Indian Science and Engineering Society*, March 2021 - Present
+## *American Indian Science and Engineering Society*, March 2021 - Present
 
 **Objective**: To develop and oversee a summer internship program aimed at providing valuable learning experiences for Indigenous STEM students while benefiting corporate and federal partners through fresh talent and contributions.
 
