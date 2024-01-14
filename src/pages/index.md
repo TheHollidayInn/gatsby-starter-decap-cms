@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Porfolio
-image: /img/home-jumbotron.jpg
+title: .
+image: /img/76ca900d-4a07-47e3-929c-13e96d7f1645.jpeg
 heading: I’m Taylor Kingsbery!
-subheading: ….
+subheading: .
 mainpitch:
   title: Chokma!
   description: |
