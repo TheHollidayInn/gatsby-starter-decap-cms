@@ -44,13 +44,18 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
+  description: >-
     I am a proud member of the Chickasaw Nation and a seasoned program manager
     with a proven history of fostering meaningful connections between Indigenous
     communities, peoples, and financial supporters. My unwavering commitment
     lies in promoting diversity, equity, and inclusion. I am passionate about
     harnessing the power of community engagement, collaboration, and leadership
     to facilitate transformative change.
+
+
+    Want to talk more? Contact me on LinkedIn!
+
+    https://www.linkedin.com/in/taylor-kingsbery-ms-mls-4340a094/ 
 main:
   heading: Great coffee with no compromises
   description: >
