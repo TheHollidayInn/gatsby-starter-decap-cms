@@ -1,33 +1,62 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: AISES Scholarship Program Management
 date: 2016-12-17T15:04:10.000Z
+description: Detailed Project Decription
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-tags:
-  - flavor
-  - tasting
+featuredimage: /img/7bf124e5-5ad1-42db-be13-d72e47e24673.jpeg
+tags: []
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/7bf124e5-5ad1-42db-be13-d72e47e24673.jpeg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+# AISES Scholarship Program Management
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+###### *American Indian Science and Engineering Society,* March 2021 - Present
 
-## What the updates mean to you
+**Objective**: Efficiently and effectively manage a scholarship program aimed at supporting Indigenous STEM students in pursuing higher education.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+**Program Design and Implementation:**
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+* Developed a comprehensive scholarship program structure, including eligibility criteria, application process, and evaluation procedures.
+* Collaborated with stakeholders such as San Manuel Band of Mission Indians, Reboot, Aristocrat Gaming, etc. to align the program with organizational goals and objectives.
+* Successfully launched and implemented the program, ensuring it adhered to established guidelines and timelines.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+**Application and Selection Process:**
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+* Designed and managed an online application portal in partnership with Cobell, simplifying the submission process for applicants.
+* Coordinated with a panel of AISES member experts to review and evaluate applications.
+* Implemented a fair and transparent selection process, resulting in the awarding of scholarships to highly qualified candidates.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+**Financial Management:**
+
+* Established a budget for the program, meticulously tracking scholarship payments and administrative budgets. 
+* Developed financial reports and presented them to key stakeholders, ensuring transparency and accountability.
+* Leveraged fundraising efforts to secure additional funding for the program, enabling the expansion of AISES scholarship opportunities.
+
+**Recipient Support and Monitoring:**
+
+* Provided ongoing support to scholarship recipients, addressing their academic and personal needs through open lines of communication such as email or phone calls. 
+* Established the Full-Ciricle Mentorship program system by connecting students with industry professionals to foster personal and professional growth.
+* Monitored the academic progress of recipients and offered guidance and resources when necessary.
+
+**Impact Assessment:**
+
+* Implemented data collection and evaluation methods to measure the program's impact on recipients' academic achievements and career prospects.
+* Conducted surveys and interviews to gather feedback from scholarship recipients, which informed program improvements.
+* Generated annual reports summarizing the program's outcomes and impact, facilitating donor engagement and showcasing the program's success.
+
+**Community Engagement and Outreach**:
+
+* Organized community awareness campaigns and fundraising reports to promote the scholarship program.
+* Established partnerships with educational institutions, community organizations, and fellow scholarship providers to expand the program's reach.
+* Conducted regular presentations and webinars to engage with potential applicants and supporters.
+* Adaptation and Continuous Improvement:
+* Remained proactive in addressing program challenges and making necessary adjustments to improve its efficiency and effectiveness.
+* Collaborated with stakeholders to review and update program policies and procedures.
+* Implemented technological advancements to streamline processes, such as automating application tracking and communication with applicants.
+
+**Results and Impact:**
+
+* Over three years, the program has doubled from six partner scholarship opportunities to 12 partner scholarship opportunities resulting in over $250,000 new funding each year to bring the total scholarship budget to $750,000.
+* Through coaching, outreach, and partnerships the total number of completed scholarship applications tripled from 475 in 2021 to 1350 2023. 
+* Regular impact assessments have shown that 65% of scholarship recipients attribute their success directly to the program's support and mentoring.
