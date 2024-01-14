@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Transition Paper TCU Program Application to Digital Forms
-date: 2024-01-14T01:40:09.780Z
+date: 2024-01-14T23:25:46.500Z
 description: AICF
 featuredpost: true
 featuredimage: /img/d8a02b59-6bbe-4669-8402-d538245b0079.jpeg
