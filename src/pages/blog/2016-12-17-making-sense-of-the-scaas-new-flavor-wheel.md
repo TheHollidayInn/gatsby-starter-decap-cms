@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: AISES Scholarship Program Management
 date: 2016-12-17T15:04:10.000Z
-description: Detailed Project Decription
+description: Scholarship
 featuredpost: false
 featuredimage: /img/7bf124e5-5ad1-42db-be13-d72e47e24673.jpeg
 tags: []
