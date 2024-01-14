@@ -1,34 +1,80 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+templateKey: blog-post
+title: Jack Kent Cooke Foundation Full-Circle Mentorship Program
 date: 2017-01-04T15:04:10.000Z
+description: Mentorship
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+featuredimage: /img/492dc4a3-dadd-40e1-a291-361b9f577a96.jpeg
+tags: []
 ---
+# Mentorship Program Revitalization and Management
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+***American Indian Science and Engineering Society*, April 2021 - Present**
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
 
-## A little history
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+**Objective**: To revitalize and grow an existing Full-Circle Mentorship program to better align with new partner, Jack Kent Cooke Foundation,  and organizational goals as well as provide more valuable mentorship experiences for participants.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+**Assessment and Needs Analysis:**
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+* Conducted a comprehensive assessment of the existing mentorship program, including surveys, interviews, and focus groups with mentors and mentees.
+* Identified key areas for improvement and gathered feedback on participants' expectations and goals.
 
-## What you need to know before trying
+**Program Redesign and Restructuring:**
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+* Collaborated with Jack Kent Cooke Foundation to redesign the mentorship program framework, including goals, structure, and guidelines.
+* Introduced a tiered mentorship model, allowing for mentorship at different career stages and experience levels.
+* Developed updated program guidelines and resources to facilitate effective mentor-mentee relationships.
+* Recruitment and Matching:
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Established a targeted recruitment strategy to attract Indigenous mentors and mentees with diverse STEM skills, backgrounds, and experiences.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Implemented a data-driven matching process, considering participants' goals, STEM field, and interests.
+
+Conducted orientation sessions to align expectations and set clear program objectives for both mentors and mentees.
+
+Training and Resources:
+
+Designed and delivered mentorship training sessions to equip mentors with effective communication, coaching, and leadership skills.
+
+Provided mentees with resources, such as goal-setting templates and career development guides, to maximize the value of their mentorship experience.
+
+Introduced monthly mentorship workshops and webinars to foster continuous learning and skill development.
+
+Monitoring and Evaluation:
+
+Established key performance indicators (KPIs) to measure the success and impact of the revitalized program.
+
+Conducted regular check-ins with mentors and mentees to assess progress and address any challenges or concerns.
+
+Implemented a feedback system to gather input from participants and make real-time adjustments.
+
+Celebrating Success and Recognition:
+
+Recognized outstanding mentors and mentees through an annual awards ceremony, celebrating their achievements and contributions.
+
+Shared success stories and testimonials to inspire program participants and attract new mentors and mentees.
+
+Collaborated with internal communications teams to showcase the revitalized program's impact within the organization.
+
+Promotion and Expansion:
+
+Launched a targeted marketing campaign to promote the revitalized mentorship program internally and externally.
+
+Partnered with HR and talent acquisition teams to integrate mentorship opportunities into onboarding and talent development initiatives.
+
+Explored opportunities to expand the program's reach to other departments or regions within the organization.
+
+Results and Impact:
+
+The revitalized mentorship program experienced a 80% increase in mentor and mentee participation compared to the year 1 and 40% increase in year 2. 
+
+62% of program participants reported a significant improvement in their professional skills and career growth as a result of their mentorship experience.
+
+The program's success stories and testimonials were shared widely, leading to a 75% increase in interest from potential mentors and mentees.
+
+Working with Resource Development Team to include mentorship participation opinions to corporate, organization, and federal partners. 
+
+Participant feedback consistently indicated high satisfaction with the program's structure, resources, and impact.
+
+The mentorship program became a key component of the organization's membership development strategy, contributing to member retention and STEM career advancement.\
