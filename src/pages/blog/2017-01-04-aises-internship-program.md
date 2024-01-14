@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: AISES Internship Program Management
-date: 2017-01-04T15:04:10.000Z
+date: 2024-01-14T23:25:30.769Z
 description: Internship
 featuredpost: false
 featuredimage: /img/4ff5ea43-841e-40fe-8e23-f226b0bbd676.jpeg
