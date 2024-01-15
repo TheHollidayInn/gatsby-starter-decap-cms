@@ -26,8 +26,8 @@ export default function FullWidthImage(props) {
           className="full-width-image-container margin-top-0"
           style={{
             position: "relative",
-            backgroundImage: `url('/img/banner.jpg')`,
-            backgroundPositionY: "700px",
+            backgroundImage: `url('/img/banner.jpeg')`,
+
             height: "200px",
           }}
         ></div>
