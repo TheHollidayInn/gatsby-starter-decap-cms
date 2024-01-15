@@ -35,7 +35,7 @@ const Footer = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link className="navbar-item" to="/resume">
+                    <Link className="navbar-item" to="/posts/resume">
                       Resume
                     </Link>
                   </li>
@@ -45,7 +45,7 @@ const Footer = () => {
             <div className="column is-4 social">
               <a
                 title="linkedin"
-                href="https://www.linkedin.com/in/taylor-kingsbery-ms-mls-4340a094c"
+                href="https://www.linkedin.com/in/taylor-kingsbery-ms-mls-4340a094"
               >
                 <img
                   src={linkedin}
