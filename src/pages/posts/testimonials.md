@@ -6,7 +6,6 @@ description: "Testimonials from colleagues and partners.   "
 featuredpost: true
 featuredimage: /img/2a2bd248-427e-4ff1-9f03-e5ed4af124a2.jpeg
 ---
-
 ## Stacy Ledford
 
 ***AISES Program Officer, Executive Director of The Future Foundation***
@@ -17,10 +16,20 @@ AISES colleague
 
 
 
+## Amaan Nathoo
+
+***Vice President of Growth at Durable***
+
+”I had the pleasure of working with Taylor at Bonjoro where she helped the company scale to our first $2M in revenue. In the chaotic environment of an early stage startup, she brought a level of stillness and composure that enabled her to stay focused, providing her space to understand costumer problems, and meet them with innovative, product-led solutions. 
+
+Within the team, she prioritized inclusivity and actively created a collaborative work environment-qualities that enabled us to scale both the business and the team efficiently.”
+
+
+
 ## Dr. Johnny Poolaw
 
 ***AISES Director of Student Success***
 
 Department Director
 
-”Taylor is a very motivated, brigh, and devoted team player; her compassion for students is a great asset to our department.”
+”Taylor is a very motivated, bright, and devoted team player; her compassion for students is a great asset to our department.”
