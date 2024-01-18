@@ -12,7 +12,11 @@ featuredimage: /img/2a2bd248-427e-4ff1-9f03-e5ed4af124a2.jpeg
 
 ”Working closely with Taylor has been a rewarding experience. Her incredible organizational abilities turn complex tasks into seamless accomplishments. In various projects, Taylor's knack for communication becomes evident, making the process not only efficient but also enjoyable. What stands out most is her passionate advocacy for Indigenous students in STEM. Witnessing her commitment to fostering inclusivity and championing underrepresented voices has been truly inspiring. Taylor is an amazing colleague. She brings both expertise and a genuine dedication to our projects. Her contributions have been crucial to our team's success.”
 
+## Adrianne Maddux
 
+***Executive Director at Denver Indian Health and Family Services, Inc.*** 
+
+”I am honored to serve on the Denver Indian Family Resource Center (DIFRC) board of directors with Taylor Kingsbery. Taylor is dedicated to supporting the nonprofit mission and offers an authentic and compassionate commitment in her contribution to the board. Taylor is a true role model for her colleagues on the board, and we are honored to work alongside her, helping DIFRC meet its mission.”
 
 ## Amaan Nathoo
 
@@ -21,8 +25,6 @@ featuredimage: /img/2a2bd248-427e-4ff1-9f03-e5ed4af124a2.jpeg
 ”I had the pleasure of working with Taylor at Bonjoro where she helped the company scale to our first $2M in revenue. In the chaotic environment of an early stage startup, she brought a level of stillness and composure that enabled her to stay focused, providing her space to understand costumer problems, and meet them with innovative, product-led solutions. 
 
 Within the team, she prioritized inclusivity and actively created a collaborative work environment-qualities that enabled us to scale both the business and the team efficiently.”
-
-
 
 ## Dr. Johnny Poolaw
 
